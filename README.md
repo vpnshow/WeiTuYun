@@ -6,20 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/weitu) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-唯兔云（WeiTuYun）主打 **IPLC 专线、VLESS 协议**，支持通用订阅、**1 倍率**计费，不限速、不限制设备数量。普通版从 **¥19.90/月、150GB/月**起，节日限时套餐为 **¥14.90/月、100GB/月**；年付版限量款为 **¥79.90/年、45GB/月**，折合约 **¥6.66/月**。另有 IEPL 年付加强专线，以及 **100GB、200GB、500GB** 一次性不限时流量包。
-
 > [!NOTE]
 > **30 秒看懂唯兔云(WeiTuYun)**
 >
-> - **月付起步**：节日限时套餐 ¥14.90/月、100GB/月；普通版 ¥19.90/月、150GB/月。
-> - **最低年付**：年付版限量款 ¥79.90/年、45GB/月，折合约 ¥6.66/月，需一次支付全年费用。
-> - **加强专线**：IEPL 年付加强专线 ¥120/年、75GB/月。
-> - **不限时流量包**：¥100/100GB、¥160/200GB、¥340/500GB，均为一次性付款。
-> - **订阅与设备**：支持通用订阅，不限设备数量、不限速，节点统一 1 倍率。
-> - **支付与优惠**：支付宝、微信支付、USDT；新人首次优惠码 `rabbit`，年付小包不支持，具体折扣与其他适用套餐以结算页为准。
+> [访问官网](https://eoht.net/serve/airport/weitu) · [查看套餐与优惠码](https://eoht.net/serve/airport/weitu#weitu-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/weitu#weitu-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/weitu#weitu-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/weitu#weitu-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：节日限时套餐 ¥14.90/月、100GB/月；限量年付版 ¥79.90/年、45GB/月。
+> - **使用方式**：支持通用订阅，节点统一 1 倍率；另有一次性不限时流量包。
+> - **优惠限制**：`rabbit` 为新人首次优惠，年付小包不支持；具体折扣与其他适用套餐以结算页为准。
 >
+
+唯兔云（WeiTuYun）主打 **IPLC 专线、VLESS 协议**，支持通用订阅、**1 倍率**计费，不限速、不限制设备数量。普通版从 **¥19.90/月、150GB/月**起，节日限时套餐为 **¥14.90/月、100GB/月**；年付版限量款为 **¥79.90/年、45GB/月**，折合约 **¥6.66/月**。另有 IEPL 年付加强专线，以及 **100GB、200GB、500GB** 一次性不限时流量包。
 
 <a id="weitu-official-website"></a>
 
